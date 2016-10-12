@@ -1,7 +1,5 @@
 '''
-Created on Oct 27, 2010
 
-@author: Peter
 '''
 from numpy import *
 import kNN
